@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=40.6.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "KAGraph"
+version = "2024.2.26.02"
+authors = [{name = "Enrique Gómez Tagle", email = "kikinacademy@gmail.com"}]
+description = "Easy and Fast Implementation for Graph Class (AI Universidad Panamericana - Dr Barrera)"
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
